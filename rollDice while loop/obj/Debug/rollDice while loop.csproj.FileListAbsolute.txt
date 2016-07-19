@@ -1,0 +1,12 @@
+C:\Csharp review online\rollDice while loop\rollDice while loop\bin\Debug\rollDice while loop.exe.config
+C:\Csharp review online\rollDice while loop\rollDice while loop\bin\Debug\rollDice while loop.exe
+C:\Csharp review online\rollDice while loop\rollDice while loop\bin\Debug\rollDice while loop.pdb
+C:\Csharp review online\rollDice while loop\rollDice while loop\obj\Debug\rollDice while loop.csprojResolveAssemblyReference.cache
+C:\Csharp review online\rollDice while loop\rollDice while loop\obj\Debug\rollDice while loop.exe
+C:\Csharp review online\rollDice while loop\rollDice while loop\obj\Debug\rollDice while loop.pdb
+C:\Csharp review online\Roll dice program while_for\rollDice while loop\rollDice while loop\bin\Debug\rollDice while loop.exe.config
+C:\Csharp review online\Roll dice program while_for\rollDice while loop\rollDice while loop\obj\Debug\rollDice while loop.exe
+C:\Csharp review online\Roll dice program while_for\rollDice while loop\rollDice while loop\obj\Debug\rollDice while loop.pdb
+C:\Csharp review online\Roll dice program while_for\rollDice while loop\rollDice while loop\bin\Debug\rollDice while loop.exe
+C:\Csharp review online\Roll dice program while_for\rollDice while loop\rollDice while loop\bin\Debug\rollDice while loop.pdb
+C:\Csharp review online\Roll dice program while_for\rollDice while loop\rollDice while loop\obj\Debug\rollDice while loop.csprojResolveAssemblyReference.cache
